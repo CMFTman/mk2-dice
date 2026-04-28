@@ -4,11 +4,11 @@ compatibility_date = "2025-10-22"
 
 [vars]
 SERVICE_NAME = "Example"
-BOT_TOKEN = "xxxxxxxx"
-BOT_ID = "xxxxxxxx"
-BOT_NAME = "xxxxxxxx"
+BOT_TOKEN = "8642094242:AAGjzWHHAmkGWp3XUU8VkVtpI1_9MxMGZ9A"
+BOT_ID = "mk2_dice_test_bot"
+BOT_NAME = "dice_test"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "YOUR_NAMESPACE_ID_HERE"
-preview_id = "YOUR_PREVIEW_ID_HERE"
+id = "09e12948e55245d0b5105dc2a056a3cc"
+preview_id = "09e12948e55245d0b5105dc2a056a3cc"
