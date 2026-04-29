@@ -10,5 +10,5 @@ BOT_NAME = "dice_test"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "09e12948e55245d0b5105dc2a056a3cc"
-preview_id = "09e12948e55245d0b5105dc2a056a3cc"
+id = "25b138e222ca4305ba2e789039d8a8a8"
+preview_id = "25b138e222ca4305ba2e789039d8a8a8"
