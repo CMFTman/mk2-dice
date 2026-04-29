@@ -10,4 +10,4 @@ BOT_NAME = "dice_test"
 
 [[kv_namespaces]]
 binding = "KV"
-id = "25b138e222ca4305ba2e789039d8a8a8"
+id = "YOUR_NAMESPACE_ID_HERE"
