@@ -1,4 +1,4 @@
-name = "example-dice-bot"
+name = "mk2-dice"
 main = "./src/index.js"
 compatibility_date = "2025-10-22"
 
