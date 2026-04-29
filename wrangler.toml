@@ -11,4 +11,4 @@ BOT_NAME = "dice_test"
 [[kv_namespaces]]
 binding = "KV"
 id = "YOUR_NAMESPACE_ID_HERE"
-preview_id = "YOUR_NAMESPACE_ID_HERE
+preview_id = "YOUR_NAMESPACE_ID_HERE"
